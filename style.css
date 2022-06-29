@@ -33,3 +33,7 @@ img:hover {
 iframe {
     transition: transform .2s;
 }
+
+.book {
+    margin-top: 10px;
+}
